@@ -1,0 +1,2299 @@
+{
+    "nodeList": [
+        {
+            "id": "beijing_cloud1",
+            "name": "北京中心云1",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 116.346009116248,
+            "latitude": 40.080888203935
+        },
+        {
+            "id": "beijing_cloud2",
+            "name": "北京中心云2",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 116.499023499069,
+            "latitude": 39.7217273606412
+        },
+        {
+            "id": "beijing_edge1",
+            "name": "北京边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.656436999999,
+            "latitude": 39.909965
+        },
+        {
+            "id": "beijing_edge2",
+            "name": "北京边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.222982,
+            "latitude": 39.906611
+        },
+        {
+            "id": "beijing_edge3",
+            "name": "北京边缘云3",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.341395,
+            "latitude": 39.726929
+        },
+        {
+            "id": "beijing_edge4",
+            "name": "北京边缘云4",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.485306683053,
+            "latitude": 40.1353143934316
+        },
+        {
+            "id": "tianjin_cloud1",
+            "name": "天津中心云1",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 117.119751022739,
+            "latitude": 39.100153083308
+        },
+        {
+            "id": "tianjin_cloud2",
+            "name": "天津中心云2",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 117.541190378122,
+            "latitude": 39.1100890272271
+        },
+        {
+            "id": "tianjin_edge1",
+            "name": "天津边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 117.824898,
+            "latitude": 39.330613
+        },
+        {
+            "id": "tianjin_edge2",
+            "name": "天津边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.974253999999,
+            "latitude": 38.947527
+        },
+        {
+            "id": "tianjin_edge3",
+            "name": "天津边缘云3",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 117.357396,
+            "latitude": 38.937857
+        },
+        {
+            "id": "tianjin_edge4",
+            "name": "天津边缘云4",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 117.309819,
+            "latitude": 39.717575
+        },
+        {
+            "id": "shijiangzhuang_cloud",
+            "name": "石家庄中心云",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 114.621132811007,
+            "latitude": 38.03878291052
+        },
+        {
+            "id": "shijiangzhuang_edge1",
+            "name": "石家庄边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.570939999999,
+            "latitude": 38.146452
+        },
+        {
+            "id": "shijiangzhuang_edge2",
+            "name": "石家庄边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 115.218029,
+            "latitude": 37.943122
+        },
+        {
+            "id": "tangshan_edge1",
+            "name": "唐山边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 118.164821176758,
+            "latitude": 39.8617890184513
+        },
+        {
+            "id": "tangshan_edge2",
+            "name": "唐山边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 118.089300039552,
+            "latitude": 39.5511757846374
+        },
+        {
+            "id": "qhd_edge1",
+            "name": "秦皇岛边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 119.484512999999,
+            "latitude": 39.83459
+        },
+        {
+            "id": "qhd_edge2",
+            "name": "秦皇岛边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 119.775805,
+            "latitude": 39.978857
+        },
+        {
+            "id": "handan_edge1",
+            "name": "邯郸边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.473016,
+            "latitude": 36.616985
+        },
+        {
+            "id": "handan_edge2",
+            "name": "邯郸边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.814090999999,
+            "latitude": 36.550419
+        },
+        {
+            "id": "xingtai_edge1",
+            "name": "邢台边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.468442,
+            "latitude": 37.059877
+        },
+        {
+            "id": "xingtai_edge2",
+            "name": "邢台边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 115.008757,
+            "latitude": 37.359265
+        },
+        {
+            "id": "baoding_cloud",
+            "name": "保定中心云",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 115.48592132371,
+            "latitude": 39.0218877551306
+        },
+        {
+            "id": "baoding_edge1",
+            "name": "保定边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.98257,
+            "latitude": 38.748274
+        },
+        {
+            "id": "baoding_edge2",
+            "name": "保定边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 115.873759999999,
+            "latitude": 39.326524
+        },
+        {
+            "id": "zhangjiako_cloud",
+            "name": "张家口中心云",
+            "type": "中心云",
+            "layer": "云层",
+            "longtitude": 115.831389427185,
+            "latitude": 40.3104661561909
+        },
+        {
+            "id": "zhangjiako_edge1",
+            "name": "张家口边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.894342,
+            "latitude": 40.788454
+        },
+        {
+            "id": "zhangjiako_edge2",
+            "name": "张家口边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 114.720093,
+            "latitude": 41.1585589999999
+        },
+        {
+            "id": "chengde_edge1",
+            "name": "承德边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 117.943356,
+            "latitude": 40.974652
+        },
+        {
+            "id": "chengde_edge2",
+            "name": "承德边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 118.701944,
+            "latitude": 41.018401
+        },
+        {
+            "id": "cangzhou_edge1",
+            "name": "沧州边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.857066,
+            "latitude": 38.313526
+        },
+        {
+            "id": "cangzhou_edge2",
+            "name": "沧州边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.122064847885,
+            "latitude": 38.4377105250274
+        },
+        {
+            "id": "langfang_edge1",
+            "name": "廊坊边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.706378299627,
+            "latitude": 39.4910358725974
+        },
+        {
+            "id": "langfang_edge2",
+            "name": "廊坊边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 116.989576999999,
+            "latitude": 39.886539
+        },
+        {
+            "id": "hengshui_edge1",
+            "name": "衡水边缘云1",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 115.579333,
+            "latitude": 37.55082
+        },
+        {
+            "id": "hengshui_edge2",
+            "name": "衡水边缘云2",
+            "type": "边缘云",
+            "layer": "云层",
+            "longtitude": 115.559566,
+            "latitude": 38.001529
+        },
+        {
+            "id": "beijing_core1",
+            "name": "北京核心1",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 116.298045,
+            "latitude": 39.959907
+        },
+        {
+            "id": "beijing_core2",
+            "name": "北京核心2",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 116.443107999999,
+            "latitude": 39.92147
+        },
+        {
+            "id": "beijing_man1",
+            "name": "北京城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.360331811725,
+            "latitude": 39.9113796214136
+        },
+        {
+            "id": "beijing_man2",
+            "name": "北京城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.390098967372,
+            "latitude": 39.9695698125573
+        },
+        {
+            "id": "tianjin_core1",
+            "name": "天津核心1",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 117.151533999999,
+            "latitude": 39.1673459999999
+        },
+        {
+            "id": "tianjin_core2",
+            "name": "天津核心2",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 117.710776,
+            "latitude": 39.003677
+        },
+        {
+            "id": "tianjin_man1",
+            "name": "天津城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 117.440296427419,
+            "latitude": 40.0502006657136
+        },
+        {
+            "id": "tianjin_man2",
+            "name": "天津城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 117.200002924773,
+            "latitude": 39.1599745693868
+        },
+        {
+            "id": "shijiangzhuang_core",
+            "name": "石家庄核心",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 114.51486,
+            "latitude": 38.042307
+        },
+        {
+            "id": "tangshan_core",
+            "name": "唐山核心",
+            "type": "核心机房",
+            "layer": "IP层",
+            "longtitude": 118.180194,
+            "latitude": 39.6308669999999
+        },
+        {
+            "id": "shijiangzhuang_man1",
+            "name": "石家庄城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.570940999999,
+            "latitude": 38.146445
+        },
+        {
+            "id": "shijiangzhuang_man2",
+            "name": "石家庄城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 115.218021,
+            "latitude": 37.943123
+        },
+        {
+            "id": "tangshan_man1",
+            "name": "唐山城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 118.164825176758,
+            "latitude": 39.8617820184513
+        },
+        {
+            "id": "tangshan_man2",
+            "name": "唐山城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 118.089294039552,
+            "latitude": 39.5511837846374
+        },
+        {
+            "id": "qhd_man1",
+            "name": "秦皇岛城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 119.484521999999,
+            "latitude": 39.834596
+        },
+        {
+            "id": "qhd_man2",
+            "name": "秦皇岛城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 119.775799,
+            "latitude": 39.978849
+        },
+        {
+            "id": "handan_man1",
+            "name": "邯郸城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.473025,
+            "latitude": 36.616976
+        },
+        {
+            "id": "handan_man2",
+            "name": "邯郸城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.814094999999,
+            "latitude": 36.550411
+        },
+        {
+            "id": "xingtai_man1",
+            "name": "邢台城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.468435,
+            "latitude": 37.059882
+        },
+        {
+            "id": "xingtai_man2",
+            "name": "邢台城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 115.008748,
+            "latitude": 37.359264
+        },
+        {
+            "id": "baoding_man1",
+            "name": "保定城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.982574,
+            "latitude": 38.748276
+        },
+        {
+            "id": "baoding_man2",
+            "name": "保定城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 115.873757999999,
+            "latitude": 39.326521
+        },
+        {
+            "id": "zhangjiako_man1",
+            "name": "张家口城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.894340999999,
+            "latitude": 40.788457
+        },
+        {
+            "id": "zhangjiako_man2",
+            "name": "张家口城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 114.720086,
+            "latitude": 41.1585569999999
+        },
+        {
+            "id": "chengde_man1",
+            "name": "承德城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 117.943348,
+            "latitude": 40.97465
+        },
+        {
+            "id": "chengde_man2",
+            "name": "承德城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 118.701951,
+            "latitude": 41.018405
+        },
+        {
+            "id": "cangzhou_man1",
+            "name": "沧州城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.857067,
+            "latitude": 38.313525
+        },
+        {
+            "id": "cangzhou_man2",
+            "name": "沧州城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.122059847885,
+            "latitude": 38.4377135250274
+        },
+        {
+            "id": "langfang_man1",
+            "name": "廊坊城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.706369299627,
+            "latitude": 39.4910448725974
+        },
+        {
+            "id": "langfang_man2",
+            "name": "廊坊城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 116.989573999999,
+            "latitude": 39.886548
+        },
+        {
+            "id": "hengshui_man1",
+            "name": "衡水城域1",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 115.579334,
+            "latitude": 37.550821
+        },
+        {
+            "id": "hengshui_man2",
+            "name": "衡水城域2",
+            "type": "城域网机房",
+            "layer": "IP层",
+            "longtitude": 115.559574,
+            "latitude": 38.001536
+        },
+        {
+            "id": "beijing_core1_rand",
+            "name": "北京核心1_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 116.298045,
+            "latitude": 39.959907
+        },
+        {
+            "id": "beijing_core2_rand",
+            "name": "北京核心2_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 116.443107999999,
+            "latitude": 39.92147
+        },
+        {
+            "id": "beijing_man1_rand",
+            "name": "北京城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.360331811725,
+            "latitude": 39.9113796214136
+        },
+        {
+            "id": "beijing_man2_rand",
+            "name": "北京城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.390098967372,
+            "latitude": 39.9695698125573
+        },
+        {
+            "id": "tianjin_core1_rand",
+            "name": "天津核心1_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 117.151533999999,
+            "latitude": 39.1673459999999
+        },
+        {
+            "id": "tianjin_core2_rand",
+            "name": "天津核心2_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 117.710776,
+            "latitude": 39.003677
+        },
+        {
+            "id": "tianjin_man1_rand",
+            "name": "天津城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 117.440296427419,
+            "latitude": 40.0502006657136
+        },
+        {
+            "id": "tianjin_man2_rand",
+            "name": "天津城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 117.200002924773,
+            "latitude": 39.1599745693868
+        },
+        {
+            "id": "shijiangzhuang_core_rand",
+            "name": "石家庄核心_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 114.51486,
+            "latitude": 38.042307
+        },
+        {
+            "id": "tangshan_core_rand",
+            "name": "唐山核心_光",
+            "type": "核心机房",
+            "layer": "光层",
+            "longtitude": 118.180194,
+            "latitude": 39.6308669999999
+        },
+        {
+            "id": "shijiangzhuang_man1_rand",
+            "name": "石家庄城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.570940999999,
+            "latitude": 38.146445
+        },
+        {
+            "id": "shijiangzhuang_man2_rand",
+            "name": "石家庄城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 115.218021,
+            "latitude": 37.943123
+        },
+        {
+            "id": "tangshan_man1_rand",
+            "name": "唐山城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 118.164825176758,
+            "latitude": 39.8617820184513
+        },
+        {
+            "id": "tangshan_man2_rand",
+            "name": "唐山城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 118.089294039552,
+            "latitude": 39.5511837846374
+        },
+        {
+            "id": "qhd_man1_rand",
+            "name": "秦皇岛城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 119.484521999999,
+            "latitude": 39.834596
+        },
+        {
+            "id": "qhd_man2_rand",
+            "name": "秦皇岛城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 119.775799,
+            "latitude": 39.978849
+        },
+        {
+            "id": "handan_man1_rand",
+            "name": "邯郸城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.473025,
+            "latitude": 36.616976
+        },
+        {
+            "id": "handan_man2_rand",
+            "name": "邯郸城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.814094999999,
+            "latitude": 36.550411
+        },
+        {
+            "id": "xingtai_man1_rand",
+            "name": "邢台城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.468435,
+            "latitude": 37.059882
+        },
+        {
+            "id": "xingtai_man2_rand",
+            "name": "邢台城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 115.008748,
+            "latitude": 37.359264
+        },
+        {
+            "id": "baoding_man1_rand",
+            "name": "保定城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.982574,
+            "latitude": 38.748276
+        },
+        {
+            "id": "baoding_man2_rand",
+            "name": "保定城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 115.873757999999,
+            "latitude": 39.326521
+        },
+        {
+            "id": "zhangjiako_man1_rand",
+            "name": "张家口城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.894340999999,
+            "latitude": 40.788457
+        },
+        {
+            "id": "zhangjiako_man2_rand",
+            "name": "张家口城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 114.720086,
+            "latitude": 41.1585569999999
+        },
+        {
+            "id": "chengde_man1_rand",
+            "name": "承德城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 117.943348,
+            "latitude": 40.97465
+        },
+        {
+            "id": "chengde_man2_rand",
+            "name": "承德城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 118.701951,
+            "latitude": 41.018405
+        },
+        {
+            "id": "cangzhou_man1_rand",
+            "name": "沧州城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.857067,
+            "latitude": 38.313525
+        },
+        {
+            "id": "cangzhou_man2_rand",
+            "name": "沧州城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.122059847885,
+            "latitude": 38.4377135250274
+        },
+        {
+            "id": "langfang_man1_rand",
+            "name": "廊坊城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.706369299627,
+            "latitude": 39.4910448725974
+        },
+        {
+            "id": "langfang_man2_rand",
+            "name": "廊坊城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 116.989573999999,
+            "latitude": 39.886548
+        },
+        {
+            "id": "hengshui_man1_rand",
+            "name": "衡水城域1_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 115.579334,
+            "latitude": 37.550821
+        },
+        {
+            "id": "hengshui_man2_rand",
+            "name": "衡水城域2_光",
+            "type": "城域网机房",
+            "layer": "光层",
+            "longtitude": 115.559574,
+            "latitude": 38.001536
+        }
+    ],
+    "linkList": [
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "beijing_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "beijing_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "shijiangzhuang_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "tangshan_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "beijing_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "beijing_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "shijiangzhuang_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "tangshan_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "tianjin_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "tianjin_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "shijiangzhuang_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "tangshan_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "tianjin_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "tianjin_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "shijiangzhuang_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "tangshan_core",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "shijiangzhuang_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "shijiangzhuang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "tangshan_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "tangshan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "qhd_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "qhd_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "handan_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "handan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "xingtai_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "xingtai_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "baoding_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "baoding_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "zhangjiako_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "zhangjiako_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "chengde_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "chengde_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "cangzhou_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "cangzhou_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "langfang_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "langfang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "hengshui_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "hengshui_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man1",
+            "zNodeId": "shijiangzhuang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "tangshan_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "tangshan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "qhd_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "qhd_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "handan_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "handan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "xingtai_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "xingtai_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "baoding_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "baoding_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "zhangjiako_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "zhangjiako_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "chengde_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "chengde_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "cangzhou_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "cangzhou_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "langfang_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "langfang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "hengshui_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "hengshui_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_man1",
+            "zNodeId": "tangshan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "qhd_man1",
+            "zNodeId": "qhd_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "handan_man1",
+            "zNodeId": "handan_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "xingtai_man1",
+            "zNodeId": "xingtai_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "baoding_man1",
+            "zNodeId": "baoding_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "zhangjiako_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "chengde_man1",
+            "zNodeId": "chengde_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1",
+            "zNodeId": "cangzhou_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "langfang_man1",
+            "zNodeId": "langfang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "hengshui_man1",
+            "zNodeId": "hengshui_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "shijiangzhuang_man1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "tangshan_core",
+            "zNodeId": "shijiangzhuang_man2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "cangzhou_man2",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "qhd_man1",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "qhd_man2",
+            "zNodeId": "tianjin_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "cangzhou_man2",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "qhd_man1",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "qhd_man2",
+            "zNodeId": "tianjin_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man2",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "chengde_man1",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "chengde_man2",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "langfang_man1",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "langfang_man2",
+            "zNodeId": "beijing_core1",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man2",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "chengde_man1",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "chengde_man2",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "langfang_man1",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "langfang_man2",
+            "zNodeId": "beijing_core2",
+            "type": "IP内部"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "beijing_cloud1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_core1",
+            "zNodeId": "beijing_cloud2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "beijing_cloud1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_core2",
+            "zNodeId": "beijing_cloud2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man1",
+            "zNodeId": "beijing_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man1",
+            "zNodeId": "beijing_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man1",
+            "zNodeId": "beijing_edge3",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man1",
+            "zNodeId": "beijing_edge4",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man2",
+            "zNodeId": "beijing_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man2",
+            "zNodeId": "beijing_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man2",
+            "zNodeId": "beijing_edge3",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_man2",
+            "zNodeId": "beijing_edge4",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "tianjin_cloud1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_core1",
+            "zNodeId": "tianjin_cloud2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "tianjin_cloud1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_core2",
+            "zNodeId": "tianjin_cloud2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man1",
+            "zNodeId": "tianjin_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man1",
+            "zNodeId": "tianjin_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man1",
+            "zNodeId": "tianjin_edge3",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man1",
+            "zNodeId": "tianjin_edge4",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man2",
+            "zNodeId": "tianjin_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man2",
+            "zNodeId": "tianjin_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man2",
+            "zNodeId": "tianjin_edge3",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tianjin_man2",
+            "zNodeId": "tianjin_edge4",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core",
+            "zNodeId": "shijiangzhuang_cloud",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man1",
+            "zNodeId": "baoding_cloud",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man2",
+            "zNodeId": "baoding_cloud",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "zhangjiako_cloud",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man2",
+            "zNodeId": "zhangjiako_cloud",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man1",
+            "zNodeId": "shijiangzhuang_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man2",
+            "zNodeId": "shijiangzhuang_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tangshan_man1",
+            "zNodeId": "tangshan_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tangshan_man2",
+            "zNodeId": "tangshan_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "qhd_man1",
+            "zNodeId": "qhd_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "qhd_man2",
+            "zNodeId": "qhd_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "handan_man1",
+            "zNodeId": "handan_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "handan_man2",
+            "zNodeId": "handan_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "xingtai_man1",
+            "zNodeId": "xingtai_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "xingtai_man2",
+            "zNodeId": "xingtai_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man1",
+            "zNodeId": "baoding_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man2",
+            "zNodeId": "baoding_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "zhangjiako_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man2",
+            "zNodeId": "zhangjiako_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "chengde_man1",
+            "zNodeId": "chengde_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "chengde_man2",
+            "zNodeId": "chengde_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "cangzhou_man1",
+            "zNodeId": "cangzhou_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "cangzhou_man2",
+            "zNodeId": "cangzhou_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "langfang_man1",
+            "zNodeId": "langfang_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "langfang_man2",
+            "zNodeId": "langfang_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "hengshui_man1",
+            "zNodeId": "hengshui_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "hengshui_man2",
+            "zNodeId": "hengshui_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man1",
+            "zNodeId": "shijiangzhuang_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man2",
+            "zNodeId": "shijiangzhuang_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tangshan_man1",
+            "zNodeId": "tangshan_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "tangshan_man2",
+            "zNodeId": "tangshan_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "qhd_man1",
+            "zNodeId": "qhd_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "qhd_man2",
+            "zNodeId": "qhd_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "handan_man1",
+            "zNodeId": "handan_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "handan_man2",
+            "zNodeId": "handan_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "xingtai_man1",
+            "zNodeId": "xingtai_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "xingtai_man2",
+            "zNodeId": "xingtai_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man1",
+            "zNodeId": "baoding_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "baoding_man2",
+            "zNodeId": "baoding_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man1",
+            "zNodeId": "zhangjiako_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "zhangjiako_man2",
+            "zNodeId": "zhangjiako_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "chengde_man1",
+            "zNodeId": "chengde_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "chengde_man2",
+            "zNodeId": "chengde_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "cangzhou_man1",
+            "zNodeId": "cangzhou_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "cangzhou_man2",
+            "zNodeId": "cangzhou_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "langfang_man1",
+            "zNodeId": "langfang_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "langfang_man2",
+            "zNodeId": "langfang_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "hengshui_man1",
+            "zNodeId": "hengshui_edge2",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "hengshui_man2",
+            "zNodeId": "hengshui_edge1",
+            "type": "IP与云"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "beijing_core1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "beijing_core2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "beijing_man1_rand",
+            "zNodeId": "beijing_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "beijing_man2_rand",
+            "zNodeId": "beijing_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tianjin_core1_rand",
+            "zNodeId": "tianjin_core1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tianjin_core2_rand",
+            "zNodeId": "tianjin_core2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tianjin_man1_rand",
+            "zNodeId": "tianjin_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tianjin_man2_rand",
+            "zNodeId": "tianjin_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "shijiangzhuang_core",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "tangshan_core",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man1_rand",
+            "zNodeId": "shijiangzhuang_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man2_rand",
+            "zNodeId": "shijiangzhuang_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tangshan_man1_rand",
+            "zNodeId": "tangshan_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "tangshan_man2_rand",
+            "zNodeId": "tangshan_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "qhd_man1_rand",
+            "zNodeId": "qhd_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "qhd_man2_rand",
+            "zNodeId": "qhd_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "handan_man1_rand",
+            "zNodeId": "handan_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "handan_man2_rand",
+            "zNodeId": "handan_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "xingtai_man1_rand",
+            "zNodeId": "xingtai_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "xingtai_man2_rand",
+            "zNodeId": "xingtai_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "baoding_man1_rand",
+            "zNodeId": "baoding_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "baoding_man2_rand",
+            "zNodeId": "baoding_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "zhangjiako_man1_rand",
+            "zNodeId": "zhangjiako_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "zhangjiako_man2_rand",
+            "zNodeId": "zhangjiako_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "chengde_man1_rand",
+            "zNodeId": "chengde_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "chengde_man2_rand",
+            "zNodeId": "chengde_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "cangzhou_man1_rand",
+            "zNodeId": "cangzhou_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "cangzhou_man2_rand",
+            "zNodeId": "cangzhou_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "langfang_man1_rand",
+            "zNodeId": "langfang_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "langfang_man2_rand",
+            "zNodeId": "langfang_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "hengshui_man1_rand",
+            "zNodeId": "hengshui_man1",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "hengshui_man2_rand",
+            "zNodeId": "hengshui_man2",
+            "type": "IP与光"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "beijing_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "beijing_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "shijiangzhuang_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core1_rand",
+            "zNodeId": "tangshan_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "beijing_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "beijing_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "shijiangzhuang_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "beijing_core2_rand",
+            "zNodeId": "tangshan_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core1_rand",
+            "zNodeId": "tianjin_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core1_rand",
+            "zNodeId": "tianjin_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core1_rand",
+            "zNodeId": "shijiangzhuang_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core1_rand",
+            "zNodeId": "tangshan_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core2_rand",
+            "zNodeId": "tianjin_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core2_rand",
+            "zNodeId": "tianjin_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core2_rand",
+            "zNodeId": "shijiangzhuang_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tianjin_core2_rand",
+            "zNodeId": "tangshan_core_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "shijiangzhuang_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "shijiangzhuang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "tangshan_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "tangshan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "qhd_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "qhd_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "handan_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "handan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "xingtai_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "xingtai_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "baoding_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "baoding_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "zhangjiako_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "zhangjiako_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "chengde_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "chengde_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "cangzhou_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "cangzhou_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "langfang_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "langfang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "hengshui_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_core_rand",
+            "zNodeId": "hengshui_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "shijiangzhuang_man1_rand",
+            "zNodeId": "shijiangzhuang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "tangshan_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "tangshan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "qhd_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "qhd_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "handan_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "handan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "xingtai_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "xingtai_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "baoding_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "baoding_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "zhangjiako_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "zhangjiako_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "chengde_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "chengde_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "cangzhou_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "cangzhou_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "langfang_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "langfang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "hengshui_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "hengshui_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_man1_rand",
+            "zNodeId": "tangshan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "qhd_man1_rand",
+            "zNodeId": "qhd_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "handan_man1_rand",
+            "zNodeId": "handan_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "xingtai_man1_rand",
+            "zNodeId": "xingtai_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "baoding_man1_rand",
+            "zNodeId": "baoding_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1_rand",
+            "zNodeId": "zhangjiako_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "chengde_man1_rand",
+            "zNodeId": "chengde_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1_rand",
+            "zNodeId": "cangzhou_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "langfang_man1_rand",
+            "zNodeId": "langfang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "hengshui_man1_rand",
+            "zNodeId": "hengshui_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "shijiangzhuang_man1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "tangshan_core_rand",
+            "zNodeId": "shijiangzhuang_man2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "cangzhou_man2_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "qhd_man1_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "qhd_man2_rand",
+            "zNodeId": "tianjin_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "cangzhou_man1_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "cangzhou_man2_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "qhd_man1_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "qhd_man2_rand",
+            "zNodeId": "tianjin_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man2_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "chengde_man1_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "chengde_man2_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "langfang_man1_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "langfang_man2_rand",
+            "zNodeId": "beijing_core1_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man1_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "zhangjiako_man2_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "chengde_man1_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "chengde_man2_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "langfang_man1_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        },
+        {
+            "aNodeId": "langfang_man2_rand",
+            "zNodeId": "beijing_core2_rand",
+            "type": "光内部"
+        }
+    ]
+}

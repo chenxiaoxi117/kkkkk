@@ -1,0 +1,551 @@
+--->< SCHEDULING START ><---
+2024-12-02 15:19:39 - DEBUG - 获取用户输入成功
+2024-12-02 15:19:39 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:19:39 - DEBUG - Submitting task sch-3b9c3f51-6fc3-483a-824c-43e83152afc6 to background thread pool
+2024-12-02 15:19:39 - DEBUG - Task sch-3b9c3f51-6fc3-483a-824c-43e83152afc6 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 15:20:04 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 15:20:04 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 15:20:04 - DEBUG - Java 输出:Total execution time: 24 seconds
+2024-12-02 15:20:05 - DEBUG - py任务 sch-3b9c3f51-6fc3-483a-824c-43e83152afc6 已提交到后台线程池
+2024-12-02 15:20:28 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 15:20:29 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 15:20:29 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-3b9c3f51-6fc3-483a-824c-43e83152afc6
+2024-12-02 15:20:29 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-3b9c3f51-6fc3-483a-824c-43e83152afc6
+2024-12-02 15:20:29 - DEBUG - 任务 sch-3b9c3f51-6fc3-483a-824c-43e83152afc6 状态更新为: {'status': 200, 'startTime': None}
+
+--->< SCHEDULING START ><---
+2024-12-02 15:21:04 - DEBUG - 获取用户输入成功
+2024-12-02 15:21:04 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:21:04 - DEBUG - Submitting task sch-446e8e58-350e-4ddb-942e-ba9f735ebee0 to background thread pool
+2024-12-02 15:21:04 - DEBUG - Task sch-446e8e58-350e-4ddb-942e-ba9f735ebee0 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 15:21:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:11 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:11 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:12 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:12 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:12 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:12 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:12 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:13 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:13 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:13 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:14 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:14 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:14 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:15 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:15 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:16 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:19 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:20 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:20 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:22 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:22 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:23 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:24 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:26 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:26 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:27 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:27 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:27 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:27 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:27 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 15:21:28 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 15:21:28 - DEBUG - Java 输出:Total execution time: 22 seconds
+2024-12-02 15:21:28 - DEBUG - py任务 sch-446e8e58-350e-4ddb-942e-ba9f735ebee0 已提交到后台线程池
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:28 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:29 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:29 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:29 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:29 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:29 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:30 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:30 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:31 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:31 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:43 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:44 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:45 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:21:46 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:03 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:04 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:05 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:05 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:05 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:05 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:06 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:06 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:06 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:06 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:06 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:08 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:08 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:08 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:08 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:44 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:45 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:45 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:45 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:45 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:46 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:46 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:46 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:46 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:22:54 - DEBUG - python运行进程被用户中断
+2024-12-02 15:22:54 - DEBUG - 任务 sch-446e8e58-350e-4ddb-942e-ba9f735ebee0 状态更新为: {'status': 0, 'startTime': None}
+2024-12-02 15:22:55 - DEBUG - python运行进程被用户中断
+2024-12-02 15:22:56 - DEBUG - python运行进程被用户中断
+2024-12-02 15:22:56 - DEBUG - python运行进程被用户中断
+2024-12-02 15:22:56 - DEBUG - python运行进程被用户中断
+
+--->< SCHEDULING START ><---
+2024-12-02 15:23:29 - DEBUG - 获取用户输入成功
+2024-12-02 15:23:29 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:23:29 - DEBUG - Submitting task sch-f18fbe84-9877-4050-8706-9a3cf27463fb to background thread pool
+2024-12-02 15:23:29 - DEBUG - Task sch-f18fbe84-9877-4050-8706-9a3cf27463fb 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 15:23:51 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 15:23:51 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 15:23:51 - DEBUG - Java 输出:Total execution time: 22 seconds
+2024-12-02 15:23:51 - DEBUG - py任务 sch-f18fbe84-9877-4050-8706-9a3cf27463fb 已提交到后台线程池
+2024-12-02 15:24:07 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:08 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:09 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:10 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:23 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:24 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:25 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:26 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:26 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:24:27 - DEBUG - 调度状态为未开始调度
+
+--->< SCHEDULING START ><---
+2024-12-02 15:26:01 - DEBUG - 获取用户输入成功
+2024-12-02 15:26:01 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:26:01 - DEBUG - Submitting task sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72 to background thread pool
+2024-12-02 15:26:01 - DEBUG - Task sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 15:26:22 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:26:23 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:26:24 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 15:26:24 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 15:26:24 - DEBUG - Java 输出:Total execution time: 22 seconds
+2024-12-02 15:26:24 - DEBUG - py任务 sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72 已提交到后台线程池
+2024-12-02 15:26:24 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:26:24 - DEBUG - 调度状态为未开始调度
+2024-12-02 15:26:25 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:25 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:25 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:25 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:25 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:26 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:27 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:27 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:28 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:29 - DEBUG - 调度状态为正在执行
+2024-12-02 15:26:29 - DEBUG - 调度状态为正在执行
+
+--->< SCHEDULING START ><---
+2024-12-02 15:26:40 - DEBUG - 获取用户输入成功
+2024-12-02 15:26:40 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:26:40 - DEBUG - Submitting task sch-3770c7f7-367f-4a04-a7fe-c40731d073ee to background thread pool
+2024-12-02 15:26:40 - DEBUG - Task sch-3770c7f7-367f-4a04-a7fe-c40731d073ee 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 15:26:40 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 15:26:40 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 15:26:40 - DEBUG - Java 输出:Total execution time: 0 seconds
+2024-12-02 15:26:40 - DEBUG - py任务 sch-3770c7f7-367f-4a04-a7fe-c40731d073ee 已提交到后台线程池
+2024-12-02 15:26:46 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 15:26:46 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 15:26:46 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-3770c7f7-367f-4a04-a7fe-c40731d073ee
+2024-12-02 15:26:46 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-3770c7f7-367f-4a04-a7fe-c40731d073ee
+2024-12-02 15:26:47 - DEBUG - 任务 sch-3770c7f7-367f-4a04-a7fe-c40731d073ee 状态更新为: {'status': 200, 'startTime': 1733124400}
+
+--->< SCHEDULING START ><---
+2024-12-02 15:27:34 - DEBUG - 获取用户输入成功
+2024-12-02 15:27:34 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 15:27:34 - DEBUG - Submitting task sch-8da20a56-af7f-4bac-8020-46f919cb33ba to background thread pool
+2024-12-02 15:27:34 - DEBUG - Task sch-8da20a56-af7f-4bac-8020-46f919cb33ba 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 15:27:36 - DEBUG - Java 输出:Total devices created: 10000
+2024-12-02 15:27:36 - DEBUG - Java 输出:Total tasks generated: 10000
+2024-12-02 15:27:36 - DEBUG - Java 输出:Total execution time: 2 seconds
+2024-12-02 15:27:36 - DEBUG - py任务 sch-8da20a56-af7f-4bac-8020-46f919cb33ba 已提交到后台线程池
+2024-12-02 15:27:41 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:41 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:42 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:43 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:43 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:44 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:45 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:45 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:46 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:47 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:47 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:47 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:47 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:48 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:48 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:49 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:49 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:50 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:50 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:51 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:51 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:51 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:51 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:52 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:52 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:52 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:53 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:53 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:53 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:53 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:53 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:54 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:54 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:54 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:54 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:54 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:55 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:55 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:56 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:56 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:57 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:57 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:58 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:58 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:59 - DEBUG - 调度状态为正在执行
+2024-12-02 15:27:59 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:00 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:00 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:01 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:01 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 15:28:01 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 15:28:01 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-8da20a56-af7f-4bac-8020-46f919cb33ba
+2024-12-02 15:28:01 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-8da20a56-af7f-4bac-8020-46f919cb33ba
+2024-12-02 15:28:01 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:02 - DEBUG - 调度状态为正在执行
+2024-12-02 15:28:02 - DEBUG - 任务 sch-8da20a56-af7f-4bac-8020-46f919cb33ba 状态更新为: {'status': 200, 'startTime': 1733124456}
+2024-12-02 15:28:03 - DEBUG - 调度状态为执行完成
+2024-12-02 15:28:04 - DEBUG - 调度状态为执行完成
+2024-12-02 15:28:04 - DEBUG - 调度状态为执行完成
+2024-12-02 15:28:05 - DEBUG - 调度状态为执行完成
+2024-12-02 15:28:06 - DEBUG - 调度状态为执行完成
+2024-12-02 15:28:07 - DEBUG - 调度状态为执行完成
+2024-12-02 15:29:26 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 15:29:26 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 15:29:26 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-f18fbe84-9877-4050-8706-9a3cf27463fb
+2024-12-02 15:29:26 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-f18fbe84-9877-4050-8706-9a3cf27463fb
+2024-12-02 15:29:27 - ERROR - 更新任务状态失败: 'sch-f18fbe84-9877-4050-8706-9a3cf27463fb'
+2024-12-02 15:31:50 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 15:31:50 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 15:31:50 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72
+2024-12-02 15:31:50 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72
+2024-12-02 15:31:51 - ERROR - 更新任务状态失败: 'sch-17daf0a5-92c5-4e33-af98-cf973a3d2f72'
+
+--->< SCHEDULING START ><---
+2024-12-02 16:41:49 - DEBUG - 获取用户输入成功
+2024-12-02 16:41:49 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:41:49 - DEBUG - Submitting task sch-5fb7f716-f9a7-4fea-ab60-794209788ff6 to background thread pool
+2024-12-02 16:41:49 - DEBUG - Task sch-5fb7f716-f9a7-4fea-ab60-794209788ff6 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 16:41:54 - DEBUG - Java 输出:Total devices created: 10000
+2024-12-02 16:41:54 - DEBUG - Java 输出:Total tasks generated: 10000
+2024-12-02 16:41:54 - DEBUG - Java 输出:Total execution time: 3 seconds
+2024-12-02 16:41:54 - DEBUG - py任务 sch-5fb7f716-f9a7-4fea-ab60-794209788ff6 已提交到后台线程池
+2024-12-02 16:42:31 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:42:31 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:42:31 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-5fb7f716-f9a7-4fea-ab60-794209788ff6
+2024-12-02 16:42:31 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-5fb7f716-f9a7-4fea-ab60-794209788ff6
+2024-12-02 16:42:32 - DEBUG - 任务 sch-5fb7f716-f9a7-4fea-ab60-794209788ff6 状态更新为: {'status': 200, 'startTime': 1733128914}
+
+--->< SCHEDULING START ><---
+2024-12-02 16:42:58 - DEBUG - 获取用户输入成功
+2024-12-02 16:42:58 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:42:58 - DEBUG - Submitting task sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977 to background thread pool
+2024-12-02 16:42:58 - DEBUG - Task sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 16:42:58 - DEBUG - py任务 sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977 已提交到后台线程池
+2024-12-02 16:42:58 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:42:58 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:42:58 - DEBUG - Java 输出:Total execution time: 0 seconds
+2024-12-02 16:43:00 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:43:00 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:43:00 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977
+2024-12-02 16:43:00 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977
+2024-12-02 16:43:01 - DEBUG - 任务 sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977 状态更新为: {'status': 200, 'startTime': 1733128978}
+2024-12-02 16:43:04 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下的结果信息成功返回，默认展示为前20条数据
+2024-12-02 16:43:05 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下的结果信息成功返回，默认展示为前20条数据
+2024-12-02 16:43:11 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:19 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:23 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:26 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:27 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:28 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:29 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:49 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:50 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:43:51 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:44:01 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:44:02 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:44:02 - DEBUG - sch-8f31c69a-b7d8-47f3-944a-d2e7d7713977任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+
+--->< SCHEDULING START ><---
+2024-12-02 16:44:46 - DEBUG - 获取用户输入成功
+2024-12-02 16:44:46 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:44:46 - DEBUG - Submitting task sch-17566bf9-1251-4856-934a-32e80eecdb2d to background thread pool
+2024-12-02 16:44:46 - DEBUG - Task sch-17566bf9-1251-4856-934a-32e80eecdb2d 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 16:44:46 - DEBUG - py任务 sch-17566bf9-1251-4856-934a-32e80eecdb2d 已提交到后台线程池
+2024-12-02 16:44:46 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:44:46 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:44:46 - DEBUG - Java 输出:Total execution time: 0 seconds
+2024-12-02 16:44:49 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:44:49 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:44:49 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-17566bf9-1251-4856-934a-32e80eecdb2d
+2024-12-02 16:44:49 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-17566bf9-1251-4856-934a-32e80eecdb2d
+2024-12-02 16:44:50 - DEBUG - 任务 sch-17566bf9-1251-4856-934a-32e80eecdb2d 状态更新为: {'status': 200, 'startTime': 1733129086}
+2024-12-02 16:44:52 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下的结果信息成功返回，默认展示为前20条数据
+2024-12-02 16:44:53 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下的结果信息成功返回，默认展示为前20条数据
+2024-12-02 16:44:54 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下的结果信息成功返回，默认展示为前20条数据
+2024-12-02 16:44:57 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:44:58 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:44:59 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:45:00 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:45:01 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:45:39 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:45:46 - DEBUG - sch-17566bf9-1251-4856-934a-32e80eecdb2d任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:09 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:09 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:09 - DEBUG - Submitting task sch-ea055279-692f-415c-9211-ca6d69a34d8b to background thread pool
+2024-12-02 16:46:09 - DEBUG - Task sch-ea055279-692f-415c-9211-ca6d69a34d8b 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 16:46:09 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:46:09 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:46:09 - DEBUG - Java 输出:Total execution time: 0 seconds
+2024-12-02 16:46:09 - DEBUG - py任务 sch-ea055279-692f-415c-9211-ca6d69a34d8b 已提交到后台线程池
+2024-12-02 16:46:12 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:12 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:12 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-ea055279-692f-415c-9211-ca6d69a34d8b
+2024-12-02 16:46:12 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-ea055279-692f-415c-9211-ca6d69a34d8b
+2024-12-02 16:46:13 - DEBUG - 任务 sch-ea055279-692f-415c-9211-ca6d69a34d8b 状态更新为: {'status': 200, 'startTime': 1733129169}
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:15 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:15 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:15 - DEBUG - Submitting task sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635 to background thread pool
+2024-12-02 16:46:15 - DEBUG - Task sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635 返回Uuid耗时 : 0.0012 seconds
+2024-12-02 16:46:15 - DEBUG - py任务 sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635 已提交到后台线程池
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total execution time: 0 seconds
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:16 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:16 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:16 - DEBUG - Submitting task sch-d1a3903c-e060-4cf9-9ee6-786d522ec965 to background thread pool
+2024-12-02 16:46:16 - DEBUG - Task sch-d1a3903c-e060-4cf9-9ee6-786d522ec965 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 16:46:16 - DEBUG - py任务 sch-d1a3903c-e060-4cf9-9ee6-786d522ec965 已提交到后台线程池
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:16 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:16 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:16 - DEBUG - Submitting task sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e to background thread pool
+2024-12-02 16:46:16 - DEBUG - Task sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 16:46:16 - DEBUG - py任务 sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e 已提交到后台线程池
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:46:16 - DEBUG - Java 输出:Total execution time: 0 seconds
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:16 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:16 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:16 - DEBUG - Submitting task sch-571f10e4-1e77-4107-b8cb-6425241a5b6d to background thread pool
+2024-12-02 16:46:16 - DEBUG - Task sch-571f10e4-1e77-4107-b8cb-6425241a5b6d 返回Uuid耗时 : 0.0010 seconds
+2024-12-02 16:46:16 - DEBUG - py任务 sch-571f10e4-1e77-4107-b8cb-6425241a5b6d 已提交到后台线程池
+2024-12-02 16:46:17 - ERROR - Java 错误: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
+	at device_task.DefaultComputingNodesGenerator.createComputingNode(DefaultComputingNodesGenerator.java:198)
+	at device_task.device_task.main(device_task.java:23)
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:17 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:17 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:17 - DEBUG - Submitting task sch-ea9720bb-80f3-4297-8fed-74033cad4a2d to background thread pool
+2024-12-02 16:46:17 - DEBUG - Task sch-ea9720bb-80f3-4297-8fed-74033cad4a2d 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 16:46:17 - DEBUG - py任务 sch-ea9720bb-80f3-4297-8fed-74033cad4a2d 已提交到后台线程池
+2024-12-02 16:46:17 - ERROR - Java 错误: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 11
+	at device_task.DefaultComputingNodesGenerator.createComputingNode(DefaultComputingNodesGenerator.java:198)
+	at device_task.device_task.main(device_task.java:23)
+
+--->< SCHEDULING START ><---
+2024-12-02 16:46:17 - DEBUG - 获取用户输入成功
+2024-12-02 16:46:17 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 16:46:17 - DEBUG - Submitting task sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8 to background thread pool
+2024-12-02 16:46:17 - DEBUG - Task sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 16:46:17 - DEBUG - py任务 sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8 已提交到后台线程池
+2024-12-02 16:46:17 - ERROR - Java 错误: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+	at device_task.DefaultComputingNodesGenerator.createComputingNode(DefaultComputingNodesGenerator.java:198)
+	at device_task.device_task.main(device_task.java:23)
+2024-12-02 16:46:18 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:18 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:18 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e
+2024-12-02 16:46:18 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e
+2024-12-02 16:46:18 - DEBUG - Java 输出:Total devices created: 1000
+2024-12-02 16:46:18 - DEBUG - Java 输出:Total tasks generated: 1000
+2024-12-02 16:46:18 - DEBUG - Java 输出:Total execution time: 0 seconds
+2024-12-02 16:46:18 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:19 - DEBUG - 任务 sch-2e4c00dd-7c9f-43cd-8290-7ee812b7450e 状态更新为: {'status': 200, 'startTime': 1733129176}
+2024-12-02 16:46:19 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:19 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635
+2024-12-02 16:46:19 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635
+2024-12-02 16:46:19 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:19 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:19 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-571f10e4-1e77-4107-b8cb-6425241a5b6d
+2024-12-02 16:46:19 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-571f10e4-1e77-4107-b8cb-6425241a5b6d
+2024-12-02 16:46:19 - DEBUG - 任务 sch-dd8f6e0d-10a4-433c-b7fd-7d981f8a2635 状态更新为: {'status': 200, 'startTime': 1733129175}
+2024-12-02 16:46:19 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:19 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:19 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-d1a3903c-e060-4cf9-9ee6-786d522ec965
+2024-12-02 16:46:19 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-d1a3903c-e060-4cf9-9ee6-786d522ec965
+2024-12-02 16:46:20 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:20 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:20 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-ea9720bb-80f3-4297-8fed-74033cad4a2d
+2024-12-02 16:46:20 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-ea9720bb-80f3-4297-8fed-74033cad4a2d
+2024-12-02 16:46:20 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 16:46:20 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 16:46:20 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8
+2024-12-02 16:46:20 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8
+2024-12-02 16:46:20 - DEBUG - 任务 sch-571f10e4-1e77-4107-b8cb-6425241a5b6d 状态更新为: {'status': 200, 'startTime': 1733129176}
+2024-12-02 16:46:20 - DEBUG - 任务 sch-d1a3903c-e060-4cf9-9ee6-786d522ec965 状态更新为: {'status': 200, 'startTime': 1733129176}
+2024-12-02 16:46:21 - DEBUG - 任务 sch-ea9720bb-80f3-4297-8fed-74033cad4a2d 状态更新为: {'status': 200, 'startTime': 1733129177}
+2024-12-02 16:46:21 - DEBUG - 任务 sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8 状态更新为: {'status': 200, 'startTime': 1733129177}
+2024-12-02 16:46:28 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:29 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:29 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:30 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:30 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:30 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:30 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:30 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:33 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:34 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+2024-12-02 16:46:34 - DEBUG - sch-ab29764e-13af-4391-a9d6-8f6f5b36e6a8任务下用户筛选后的结果信息成功返回，展示为筛选后的第1页数据
+
+--->< SCHEDULING START ><---
+2024-12-02 17:39:11 - DEBUG - 获取用户输入成功
+2024-12-02 17:39:11 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 17:39:11 - DEBUG - Submitting task sch-c093d052-7359-4715-a0f6-7dec7268b826 to background thread pool
+2024-12-02 17:39:11 - DEBUG - Task sch-c093d052-7359-4715-a0f6-7dec7268b826 返回Uuid耗时 : 0.0000 seconds
+2024-12-02 17:39:33 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 17:39:33 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 17:39:33 - DEBUG - Java 输出:Total execution time: 20 seconds
+2024-12-02 17:39:33 - DEBUG - py任务 sch-c093d052-7359-4715-a0f6-7dec7268b826 已提交到后台线程池
+2024-12-02 17:42:49 - DEBUG - python运行进程被用户中断
+2024-12-02 17:42:49 - DEBUG - 任务 sch-c093d052-7359-4715-a0f6-7dec7268b826 状态更新为: {'status': 0, 'startTime': 1733132373}
+2024-12-02 17:42:50 - DEBUG - python运行进程被用户中断
+2024-12-02 17:42:51 - DEBUG - python运行进程被用户中断
+
+--->< SCHEDULING START ><---
+2024-12-02 22:02:52 - DEBUG - 获取用户输入成功
+2024-12-02 22:02:52 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-02 22:02:52 - DEBUG - Submitting task sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae to background thread pool
+2024-12-02 22:02:52 - DEBUG - Task sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae 返回Uuid耗时 : 0.0030 seconds
+2024-12-02 22:03:18 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-02 22:03:18 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-02 22:03:18 - DEBUG - Java 输出:Total execution time: 24 seconds
+2024-12-02 22:03:18 - DEBUG - py任务 sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae 已提交到后台线程池
+2024-12-02 22:09:34 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-02 22:09:35 - DEBUG - 成功获取两个 JSON 数据
+2024-12-02 22:09:35 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae
+2024-12-02 22:09:35 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae
+2024-12-02 22:09:35 - DEBUG - 任务 sch-d5ed0313-c2fe-47fc-8520-be2d014b9eae 状态更新为: {'status': 200, 'startTime': 1733148198}
+
+--->< SCHEDULING START ><---
+2024-12-03 10:17:20 - DEBUG - 获取用户输入成功
+2024-12-03 10:17:20 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-03 10:17:20 - DEBUG - Submitting task sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78 to background thread pool
+2024-12-03 10:17:20 - DEBUG - Task sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78 返回Uuid耗时 : 0.0011 seconds
+2024-12-03 10:17:43 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-03 10:17:43 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-03 10:17:43 - DEBUG - Java 输出:Total execution time: 21 seconds
+2024-12-03 10:17:43 - DEBUG - py任务 sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78 已提交到后台线程池
+2024-12-03 10:23:52 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-03 10:23:53 - DEBUG - 成功获取两个 JSON 数据
+2024-12-03 10:23:53 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78
+2024-12-03 10:23:53 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78
+2024-12-03 10:23:53 - DEBUG - python算法运行时间为: 370 s
+2024-12-03 10:23:53 - DEBUG - 任务 sch-a0f9e4e6-32f1-4a06-a3ed-3887094afb78 状态更新为: {'status': 200, 'startTime': 1733192263}
+
+--->< SCHEDULING START ><---
+2024-12-04 22:20:03 - DEBUG - 获取用户输入成功
+2024-12-04 22:20:03 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-04 22:20:03 - DEBUG - Submitting task sch-aa2229df-3ba0-41e8-a18a-5b2653c4e7d8 to background thread pool
+2024-12-04 22:20:03 - DEBUG - Task sch-aa2229df-3ba0-41e8-a18a-5b2653c4e7d8 返回Uuid耗时 : 0.0000 seconds
+2024-12-04 22:20:26 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-04 22:20:26 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-04 22:20:26 - DEBUG - Java 输出:Total execution time: 21 seconds
+2024-12-04 22:20:27 - DEBUG - py任务 sch-aa2229df-3ba0-41e8-a18a-5b2653c4e7d8 已提交到后台线程池
+2024-12-04 22:21:35 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-04 22:21:35 - ERROR - 监控 Python 进程输出失败: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-12-04 22:21:36 - DEBUG - python算法运行时间为: 69 s
+2024-12-04 22:21:36 - DEBUG - 任务 sch-aa2229df-3ba0-41e8-a18a-5b2653c4e7d8 状态更新为: {'status': 200, 'startTime': 1733322027}
+
+--->< SCHEDULING START ><---
+2024-12-04 22:25:22 - DEBUG - 获取用户输入成功
+2024-12-04 22:25:22 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-04 22:25:22 - DEBUG - Submitting task sch-6e099bf5-033d-42ea-a695-113878abbed0 to background thread pool
+2024-12-04 22:25:22 - DEBUG - Task sch-6e099bf5-033d-42ea-a695-113878abbed0 返回Uuid耗时 : 0.0010 seconds
+2024-12-04 22:25:47 - DEBUG - Java 输出:Total devices created: 100000
+2024-12-04 22:25:47 - DEBUG - Java 输出:Total tasks generated: 100000
+2024-12-04 22:25:47 - DEBUG - Java 输出:Total execution time: 24 seconds
+2024-12-04 22:25:47 - DEBUG - py任务 sch-6e099bf5-033d-42ea-a695-113878abbed0 已提交到后台线程池
+2024-12-04 22:26:39 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-04 22:26:39 - DEBUG - 成功获取两个 JSON 数据
+2024-12-04 22:26:39 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-6e099bf5-033d-42ea-a695-113878abbed0
+2024-12-04 22:26:39 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-6e099bf5-033d-42ea-a695-113878abbed0
+2024-12-04 22:26:40 - DEBUG - python算法运行时间为: 53 s
+2024-12-04 22:26:40 - DEBUG - 任务 sch-6e099bf5-033d-42ea-a695-113878abbed0 状态更新为: {'status': 200, 'startTime': 1733322347}
+2024-12-04 22:27:02 - DEBUG - sch-6e099bf5-033d-42ea-a695-113878abbed0任务下的调度信息成功返回
+2024-12-04 22:27:15 - DEBUG - sch-6e099bf5-033d-42ea-a695-113878abbed0任务下的调度信息成功返回
+
+--->< SCHEDULING START ><---
+2024-12-04 22:34:00 - DEBUG - 获取用户输入成功
+2024-12-04 22:34:00 - DEBUG - 根据用户输入，成功更新Java配置文件
+2024-12-04 22:34:00 - DEBUG - Submitting task sch-92529f44-1354-452e-aff3-f71b0061a3ff to background thread pool
+2024-12-04 22:34:00 - DEBUG - Task sch-92529f44-1354-452e-aff3-f71b0061a3ff 返回Uuid耗时 : 0.0000 seconds
+2024-12-04 22:34:48 - DEBUG - Java 输出:Total devices created: 200000
+2024-12-04 22:34:48 - DEBUG - Java 输出:Total tasks generated: 200000
+2024-12-04 22:34:48 - DEBUG - Java 输出:Total execution time: 46 seconds
+2024-12-04 22:34:48 - DEBUG - py任务 sch-92529f44-1354-452e-aff3-f71b0061a3ff 已提交到后台线程池
+2024-12-04 22:36:10 - DEBUG - 解析成功:识别到共有2个Json数据
+2024-12-04 22:36:11 - DEBUG - python算法运行时间为: 83 s
+2024-12-04 22:36:11 - DEBUG - 成功获取两个 JSON 数据
+2024-12-04 22:36:11 - DEBUG - Python 设备结果表输出成功并成功获取了 UUID: sch-92529f44-1354-452e-aff3-f71b0061a3ff
+2024-12-04 22:36:11 - DEBUG - 任务 sch-92529f44-1354-452e-aff3-f71b0061a3ff 状态更新为: {'status': 200, 'startTime': 1733322888}
+2024-12-04 22:36:11 - DEBUG - Python 调度信息表输出成功并成功获取了 UUID: sch-92529f44-1354-452e-aff3-f71b0061a3ff
+2024-12-04 22:37:11 - DEBUG - sch-92529f44-1354-452e-aff3-f71b0061a3ff任务下的调度信息成功返回
