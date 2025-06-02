@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<applications>
+	<application name="Low latency">
+		<type>1</type> 
+		<rate>1</rate> 
+		<usage_percentage>40</usage_percentage> 
+		<latency>50</latency> 
+		<container_size>1.6</container_size> 
+		<request_size>1.6</request_size> 
+		<results_size>1.6</results_size> 
+		<task_length>500</task_length> 
+	</application>
+	<application name="High computing power">
+		<type>2</type>
+		<rate>1</rate>
+		<usage_percentage>40</usage_percentage>
+		<latency>60</latency>
+		<container_size>0.15</container_size>
+		<request_size>0.15</request_size>
+		<results_size>0.15</results_size>
+		<task_length>600</task_length>
+	</application>
+	<application name="High bandwidth">
+		<type>3</type>
+		<rate>1</rate>
+		<usage_percentage>14</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Low latency + High computing power">
+		<type>4</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Low latency + High computing power">
+		<type>5</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Low latency + High computing power + High bandwidth">
+		<type>6</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Apply for virtual machine (Uses CPU, memory, storage)">
+		<type>7</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Long-term occupation of network resources">
+		<type>8</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>
+		<application name="Less sensitive tasks">
+		<type>9</type>
+		<rate>1</rate>
+		<usage_percentage>1</usage_percentage>
+		<latency>100</latency> 
+		<container_size>0.1</container_size>
+		<request_size>0.1</request_size>
+		<results_size>0.1</results_size>
+		<task_length>700</task_length>
+	</application>	
+</applications>

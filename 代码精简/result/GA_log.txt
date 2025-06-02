@@ -1,0 +1,294 @@
+[2025-04-29 15:40:44] Algorithm: GA
+Task Success Rate: 100.00%
+Elapsed Time: 16.10 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.39%, Storage Utilization: 0.02%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.39%, Storage Utilization: 0.02%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.48%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.32%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.04%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-04-29 19:00:03] Algorithm: GA
+Task Success Rate: 10000.00%
+Elapsed Time: 22.49 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.39%, Storage Utilization: 0.02%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.39%, Storage Utilization: 0.02%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.48%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.32%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.04%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-05-21 13:06:12] Algorithm: GA
+Task Success Rate: 100.00%
+Elapsed Time: 14.68 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.42%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.49%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.28%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-05-21 13:06:54] Algorithm: GA
+Task Success Rate: 10000.00%
+Elapsed Time: 28.45 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.42%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.49%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.28%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-05-21 13:13:43] Algorithm: GA
+Task Success Rate: 100.00%
+Elapsed Time: 14.22 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.42%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.49%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.28%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-05-27 16:08:55] Algorithm: GA
+Task Success Rate: 10000.00%
+Elapsed Time: 24.02 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.40%, Storage Utilization: 0.03%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.42%, Storage Utilization: 0.03%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.07%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.49%, Storage Utilization: 0.03%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.27%, Storage Utilization: 0.02%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.11%, Storage Utilization: 0.01%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.41%, Storage Utilization: 0.03%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.28%, Storage Utilization: 0.02%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.21%, Storage Utilization: 0.01%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.05%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.13%, Storage Utilization: 0.01%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.35%, Storage Utilization: 0.02%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.10%, Storage Utilization: 0.01%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.33%, Storage Utilization: 0.02%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.06%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.14%, Storage Utilization: 0.01%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.08%, Storage Utilization: 0.01%
+
+[2025-05-27 16:22:24] Algorithm: GA
+Task Success Rate: 10000.00%
+Elapsed Time: 1.39 seconds
+Resource Utilization:
+  ID: 5, Name: beijing_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 6, Name: beijing_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 7, Name: beijing_edge1, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 8, Name: beijing_edge2, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 9, Name: beijing_edge3, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 10, Name: beijing_edge4, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 15, Name: tianjin_cloud1, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 16, Name: tianjin_cloud2, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 17, Name: tianjin_edge1, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 18, Name: tianjin_edge2, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 19, Name: tianjin_edge3, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 20, Name: tianjin_edge4, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 24, Name: shijiangzhuang_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 48, Name: shijiangzhuang_edge1, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 49, Name: shijiangzhuang_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 50, Name: tangshan_edge1, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 51, Name: tangshan_edge2, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 52, Name: qhd_edge1, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 53, Name: qhd_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 54, Name: handan_edge1, Type: 1, RAM Utilization: 0.03%, Storage Utilization: 0.00%
+  ID: 55, Name: handan_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 56, Name: xingtai_edge1, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 57, Name: xingtai_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 36, Name: baoding_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 58, Name: baoding_edge1, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 59, Name: baoding_edge2, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 39, Name: zhangjiako_cloud, Type: 0, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 60, Name: zhangjiako_edge1, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 61, Name: zhangjiako_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 62, Name: chengde_edge1, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 63, Name: chengde_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 64, Name: cangzhou_edge1, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 65, Name: cangzhou_edge2, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 66, Name: langfang_edge1, Type: 1, RAM Utilization: 0.02%, Storage Utilization: 0.00%
+  ID: 67, Name: langfang_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+  ID: 68, Name: hengshui_edge1, Type: 1, RAM Utilization: 0.01%, Storage Utilization: 0.00%
+  ID: 69, Name: hengshui_edge2, Type: 1, RAM Utilization: 0.00%, Storage Utilization: 0.00%
+
